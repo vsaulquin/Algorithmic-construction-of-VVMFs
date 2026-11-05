@@ -2,9 +2,9 @@
 
 
 ## Overview
-The code in this repository aims to compute the Vector-Valued Modular Forms (VVMF) of any finite modular groups. This type of a function appears naturally in modular symmetric theories. The ability to construct them is crucial in order to make predictions. They are characterized by a representation of the finite modular group (a quotient group of SL(2,Z)) and a positive integer called the weight.
+The code in this repository aims to compute the Vector-Valued Modular Forms (VVMFs) of any finite modular groups. This type of functions appears naturally in modular symmetric theories. The ability to construct them is crucial in order to make predictions. They are characterized by a representation of the finite modular group (a quotient group of SL(2,Z)) and a positive integer called the weight.
 
-The usual method to compute VVMFs it to build the first ones and do successive tensor products of them to get the higher weights. This assumes to be able to compute the first VVMFs and to have a criterion to know if a set of functions can produce the others. The computation of the lowest-weight VVMFs relies on general result on the mathematical of VVMFs while the criterion on a representation-theoric property namely the faithfulness of the representations of these VVMFs.
+The usual method to compute VVMFs it to build the first ones and do successive tensor products of them to get the higher weights. This assumes to be able to compute the first VVMFs and to have a criterion to know if a set of functions can produce the others. The computation of the lowest-weight VVMFs relies on general results on the mathematical theory of VVMFs while the criterion on a representation-theoric property namely the faithfulness of the representations of these VVMFs.
 
 This code is associated with the following scientific publication:
 
@@ -31,7 +31,7 @@ In case the group you want to focus on is not already tabulated, add it to Group
 More details are available in the associated paper.
 ## Citation
 
-If you use this repository in your research, please cite the associated article and its associated scientific publication.
+If you use this repository in your research, please cite the associated article.
 
 **Associated publication:**
 
