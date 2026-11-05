@@ -4,7 +4,7 @@ message: "If you use this software in your research, please cite it and its asso
 
 title: "Algorithmic Construction of VVMFs"
 
-author:
+authors:
   - family-name: "Saulquin"
     given-name: "Victor"
 
@@ -18,8 +18,12 @@ repository-code: "https://github.com/vsaulquin/Algorithmic-construction-of-VVMFs
 preferred-citation:
   type: article
   authors:
-    - family-names: "Bonnefoy, Rausch de Traubenberg, Saulquin"
-      given-names: "Quentin, Michel, Victor"
+    - family-names: "Bonnefoy"
+      given-names: "Quentin"
+    - family-names: "Rausch de Traubenberg"
+      given-names: "Michel"
+    - family-names: "Saulquin"
+      given-names: "Victor"
   title: "Title of your scientific paper"
   journal: "Journal Name"
   year: 2026
