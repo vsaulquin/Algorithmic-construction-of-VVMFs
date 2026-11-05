@@ -16,7 +16,7 @@ license: MIT
 repository-code: "https://github.com/vsaulquin/Algorithmic-construction-of-VVMFs"
 
 preferred-citation:
-  type: article
+  type: unpublished
   authors:
     - family-names: "Bonnefoy"
       given-names: "Quentin"
@@ -24,7 +24,7 @@ preferred-citation:
       given-names: "Michel"
     - family-names: "Saulquin"
       given-names: "Victor"
-  title: "Title of your scientific paper"
+  title: "Algorithmic Construction of Vector-Valued Modular Forms and Application to an A4xZ4-invariant Model of Leptons"
   journal: "Journal Name"
   year: 2026
   doi: "10.xxxx/xxxxx"
