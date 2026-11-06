@@ -10,7 +10,7 @@ This code is associated with the following scientific publication:
 
 - **Paper:** [Algorithmic Construction of Vector-Valued Modular Forms and Application to an A4xZ4-invariant Model of Leptons]
 - **Authors:** [Quentin Bonnefoy, Michel Rausch de Traubenberg and Victor Saulquin]
-- **DOI:** [DOI or link, if available]
+- **arXiv number:** [2611.08387]
 
 
 
@@ -37,7 +37,15 @@ If you use this repository in your research, please cite the associated article.
 
 **Associated publication:**
 
-[Full reference will be added upon publication.]
+@misc{bonnefoy2026algorithmicconstructionvectorvaluedmodular,
+      title={Algorithmic Construction of Vector-Valued Modular Forms and Application to an $A_4\times\mathbb{Z}_4$-invariant Model of Leptons}, 
+      author={Q. Bonnefoy and M. Rausch de Traubenberg and V. Saulquin},
+      year={2026},
+      eprint={2611.08387},
+      archivePrefix={arXiv},
+      primaryClass={hep-ph},
+      url={https://arxiv.org/abs/2611.08387}, 
+}
 
 A `CITATION.cff` file is also provided in this repository.
 
